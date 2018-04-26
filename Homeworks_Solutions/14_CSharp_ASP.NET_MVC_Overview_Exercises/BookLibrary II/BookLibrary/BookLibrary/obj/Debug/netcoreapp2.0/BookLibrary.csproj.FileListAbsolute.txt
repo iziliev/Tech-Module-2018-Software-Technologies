@@ -1,0 +1,12 @@
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.deps.json
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.json
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.dev.json
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.dll
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csprojResolveAssemblyReference.cache
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csproj.CoreCompileInputs.cache
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfoInputs.cache
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfo.cs
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.pdb
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.dll
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Homeworks\14_CSharp_ASP.NET_MVC_Overview_Exercises\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.pdb
