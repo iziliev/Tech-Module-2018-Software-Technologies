@@ -1,0 +1,11 @@
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\bin\Debug\netcoreapp2.0\WebAppASP.deps.json
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\bin\Debug\netcoreapp2.0\WebAppASP.runtimeconfig.json
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\bin\Debug\netcoreapp2.0\WebAppASP.runtimeconfig.dev.json
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\bin\Debug\netcoreapp2.0\WebAppASP.dll
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\bin\Debug\netcoreapp2.0\WebAppASP.pdb
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\obj\Debug\netcoreapp2.0\WebAppASP.csprojResolveAssemblyReference.cache
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\obj\Debug\netcoreapp2.0\WebAppASP.csproj.CoreCompileInputs.cache
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\obj\Debug\netcoreapp2.0\WebAppASP.AssemblyInfoInputs.cache
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\obj\Debug\netcoreapp2.0\WebAppASP.AssemblyInfo.cs
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\obj\Debug\netcoreapp2.0\WebAppASP.dll
+E:\SoftUni\Courses\Tech_Module\Tech_Module-2018\Software_Technologies\Lab\14_CSharp_ASP.NET_MVC_Overview\WebAppASP\WebAppASP\obj\Debug\netcoreapp2.0\WebAppASP.pdb

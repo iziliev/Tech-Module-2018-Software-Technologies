@@ -1,0 +1,11 @@
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojResolveAssemblyReference.cache
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\iiliev\Desktop\17_Exam_Preparation_II\Group II\TeisterMask_Solutions\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb

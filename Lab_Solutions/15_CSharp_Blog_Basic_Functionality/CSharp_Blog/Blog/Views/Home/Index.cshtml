@@ -1,0 +1,9 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Blog.Models
+
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Welcome @UserManager.GetUserName(User)</h1>
